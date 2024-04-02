@@ -15,9 +15,6 @@
 - редактирование задачи;
 - удаление задач из списка по отдельности;
 
-Наглядно c функционалом проекта **Shopping List** можно познакомиться 
-<img width="1432" alt="todolist" src="https://user-images.githubusercontent.com/96244317/187025801-3401db08-fed6-4bd8-9d9f-901155483d5b.png">
-
 ## Технологический стек
 При создании проекта использовался следующий стек технологий: HTML, CSS, JS, React.js, функциональные компоненты React.
 
@@ -39,7 +36,8 @@ npm start
 
 ## Ссылки на проект
 Исходный код проекта доступен по [ссылке](https://github.com/Inessa-Syrokvash/grocery-list.git).
-Наглядно c функционалом проекта **Shopping List** можно познакомиться[ссылке] ()
+Наглядно c функционалом проекта **Shopping List** можно познакомиться [ссылке] ()
+<img width="1432" alt="todolist" src="https://github.com/Inessa-Syrokvash/grocery-list/blob/main/src/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20Grocery%20list.png?raw=true">
 
 
 
