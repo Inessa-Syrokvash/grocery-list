@@ -11,7 +11,7 @@ function App() {
         <img src={ shopping } width='200px' alt='shopping' />
       </div>
       <div className='container'>
-        <h1>Grocery list:</h1>
+        <h1>My grocery list:</h1>
       </div>
       <GroceryList />
       <div className='container'>
