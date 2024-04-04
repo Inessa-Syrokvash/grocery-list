@@ -34,7 +34,7 @@ npm start
 
 ## Links to the project
 The source code of the project is available at [link](https://github.com/Inessa-Syrokvash/grocery-list.git).
-The functionality of the **Shopping List** project can be found at [link] (https://grocery-list-today.netlify.app/)
+The functionality of the **Shopping List** project can be found at [link](https://grocery-list-today.netlify.app/)
 <img width="1432" alt="todolist" src="https://github.com/Inessa-Syrokvash/grocery-list/blob/main/src/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20Grocery%20list.png?raw=true">
 
 
