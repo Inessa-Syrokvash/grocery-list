@@ -1,42 +1,40 @@
 # 📜 React application "Shopping List"
-Проект **Shopping List** представляет собой приложение, с помощью которого можно составлять список пукупок.
-Классический TODO List. Создано при изучнии _ReactJS_. 
+**The Shopping List** project is an application with which you can make a shopping list. Classic TODO List. Created while learning _ReactJS_.
 
-## Описание веток
-- `git checkout main`- приложение Shopping List
+## Description of branches
+- `git checkout main`- application Shopping List
   
-## Функционал проекта
-Пользователю доступен следующий функционал:
-- добавление задач в список (нажав кнопку Add или Enter на клавиатуре);
-- контроль выполнения задач (проставление статусы "выпоненно");
-- удаление всего списка задач;
+## Project functionality
+The following functionality is available to the user:
+- adding tasks to the list (by pressing Add or Enter on the keyboard);
+- control of task fulfillment (marking the status "completed");
+- deleting the whole list of tasks;
   
-Функционал проекта, который планируется добавить:
-- редактирование задачи;
-- удаление задач из списка по отдельности;
+Functionality of the project to be added:
+- editing a task;
+- deleting tasks from the list individually;
 
-## Технологический стек
-При создании проекта использовался следующий стек технологий: HTML, CSS, JS, React.js, функциональные компоненты React.
+## Technology stack
+The following technology stack was used to create the project: HTML, CSS, JS, React.js, React functional components.
 
-## Работа с проектом
-Для запуска проекта, пожалуйста, выполните следующие действия:
-
-1. Склонировать проект на ваш компьютер с [Github](https://github.com/Inessa-Syrokvash/grocery-list.git) с помощью команды:
+## Work with the project
+To start the project, please follow the steps below:
+1. Clone the project to your computer from [Github](https://github.com/Inessa-Syrokvash/grocery-list.git) using the command:
 ```
 git clone https://github.com/Inessa-Syrokvash/grocery-list.git
 ```
-2. Установить зависимости:
+2. Install dependencies:
 ```
 npm install
 ```
-3. Запустить проект:
+3. Start the project:
 ```
 npm start
 ```
 
-## Ссылки на проект
-Исходный код проекта доступен по [ссылке](https://github.com/Inessa-Syrokvash/grocery-list.git).
-Наглядно c функционалом проекта **Shopping List** можно познакомиться [ссылке] ()
+## Links to the project
+The source code of the project is available at [link](https://github.com/Inessa-Syrokvash/grocery-list.git).
+The functionality of the **Shopping List** project can be found at [link] (https://grocery-list-today.netlify.app/)
 <img width="1432" alt="todolist" src="https://github.com/Inessa-Syrokvash/grocery-list/blob/main/src/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20Grocery%20list.png?raw=true">
 
 
